@@ -1,4 +1,8 @@
+// app/api/proxy-image/route.ts
+
 import { NextResponse } from 'next/server';
+
+export const dynamic = 'force-dynamic';  // This forces Next.js to treat this route as dynamic.
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
