@@ -42,5 +42,13 @@ export const companies = {
   "GreenMedical": {
     "domain": "https://www.greenmedical.health",
     "info": "GreenMedical ermöglicht Online-Konsultationen zur Verschreibung von medizinischem Cannabis."
+  },
+  "CanDoc": {
+    "domain": "https://can-doc.de/",
+    "info": "CanDoc ist die führende Plattform für Patienten, die eine professionelle ärztliche Beratung und ein sicheres Cannabis-Rezept online benötigen. "
+  },
+  "Flowzz": {
+    "domain": "https://flowzz.com/",
+    "info": "THC Blüten ab 3,95€ Legales Cannabis mit hohen THC Gehalt und bekannte Cali-Strains aus einer Apotheke müssen nicht teuer sein."
   }
 } as const;

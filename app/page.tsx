@@ -93,14 +93,14 @@ export default function Home() {
         {/* Bottom Ad Banner Section */}
         <div className="max-w-7xl mx-auto flex justify-center mt-20">
           <a 
-            href="https://stake.com/?c=9BAmdcIb" 
+            href="https://www.royalqueenseeds.com/?utm_source=postaffiliatepro&utm_medium=affiliate&utm_campaign=test&a_aid=54839603" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block w-[728px] h-[90px] bg-gray-200 dark:bg-gray-700 rounded-lg flex items-center justify-center"
           >
             <img
-              src="/stake.gif"
-              alt="Stake.com"
+              src="/rqseeds.png"
+              alt="RoyalQueenSeeds"
               width={728}
               height={90}
               className="w-[728px] h-[90px]"
