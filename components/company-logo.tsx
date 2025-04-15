@@ -12,7 +12,8 @@ import {
   Flower2, 
   Sun, 
   Sparkles, 
-  TreePine 
+  TreePine,
+  LucideIcon
 } from 'lucide-react';
 
 interface CompanyLogoProps {
@@ -20,7 +21,7 @@ interface CompanyLogoProps {
   name: string;
 }
 
-const companyIcons: Record<string, React.ComponentType> = {
+const companyIcons: Record<string, LucideIcon> = {
   'Bloomwell': Flower2,
   'CannGo': Leaf,
   'Quick-Green': TreePine,
