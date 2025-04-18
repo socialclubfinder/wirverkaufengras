@@ -36,7 +36,12 @@ export const metadata: Metadata = {
     'wie kann ich gras in deutschland kaufen',
     'stecklinge kaufen',
     'cali weed online kaufen',
-    ''
+    'wir verkaufen gras',
+    'gras kaufen deutschland',
+    'gras verkaufen',
+    'cannabis verkaufen',
+    'cannabis auf rezept online',
+    'tele cannabis'
   ].join(', '),
   authors: [{ name: 'wirverkaufengras.de' }],
   openGraph: {
@@ -66,7 +71,8 @@ export const metadata: Metadata = {
     canonical: 'https://wirverkaufengras.de',
   },
   verification: {
-    google: 'REPLACE_WITH_YOUR_VERIFICATION_CODE',
+    google: '',
+  
   },
   other: {
     'apple-mobile-web-app-capable': 'yes',
