@@ -6,7 +6,7 @@ import Link from "next/link";
 export const metadata: Metadata = {
   title: 'Cannabis Rezept online bekommen | Schnell & Einfach zum Gras Rezept',
   description: 'Cannabis Rezept schnell & einfach online erhalten ✓ Legales Gras auf Rezept ✓ Diskrete Telemedizin Beratung ✓ Meist noch am selben Tag ✓',
-  keywords: 'cannabis rezept, gras rezept, cannabis auf rezept, medizinisches cannabis, cannabis arzt, online cannabis rezept, telemedizin cannabis',
+  keywords: 'cannabis rezept, gras rezept, cannabis auf rezept, medizinisches cannabis, cannabis arzt, online cannabis rezept, telemedizin cannabis, gras kaufen, gras online kaufen',
 };
 
 export default function RezeptPage() {
@@ -24,7 +24,7 @@ export default function RezeptPage() {
     {
       title: "Diskret & Bequem",
       icon: FileCheck,
-      content: "Beratung von zu Hause aus - keine persönlichen Arztbesuche notwendig."
+      content: "Beratung von zu Hause aus – keine persönlichen Arztbesuche notwendig."
     }
   ];
 
@@ -32,17 +32,17 @@ export default function RezeptPage() {
     {
       title: "Anbieter wählen",
       icon: ClipboardList,
-      content: "Wählen Sie einen unserer geprüften Telemedizin-Anbieter aus. Alle Anbieter sind erfahren in der Cannabis-Therapie."
+      content: "Wählen Sie einen unserer geprüften Telemedizin-Anbieter aus. Alle Anbieter haben Erfahrung mit der Cannabis-Therapie."
     },
     {
       title: "Online-Termin buchen",
       icon: Stethoscope,
-      content: "Füllen Sie den kurzen Fragebogen aus und buchen Sie einen Termin - meist noch am selben Tag möglich."
+      content: "Füllen Sie den kurzen Fragebogen aus und buchen Sie einen Termin – meist noch am selben Tag möglich."
     },
     {
       title: "Rezept erhalten",
       icon: FileCheck,
-      content: "Nach der Beratung erhalten Sie bei medizinischer Indikation Ihr Rezept - schnell und unkompliziert."
+      content: "Nach der Beratung erhalten Sie bei medizinischer Indikation Ihr Rezept – schnell und unkompliziert."
     }
   ];
 
@@ -52,14 +52,14 @@ export default function RezeptPage() {
       <div className="w-full bg-white dark:bg-gray-800 shadow-md p-4">
         <div className="max-w-7xl mx-auto flex justify-center">
           <a 
-            href="https://stake.com/?c=9BAmdcIb" 
+            href="https://www.royalqueenseeds.com/?utm_source=postaffiliatepro&utm_medium=affiliate&utm_campaign=test&a_aid=54839603" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block w-[728px] h-[90px] bg-gray-200 dark:bg-gray-700 rounded-lg flex items-center justify-center"
           >
             <img
-              src="/stake.gif"
-              alt="Stake.com Advertisement"
+              src="/rqseeds.png"
+              alt="Royal Queen Seeds"
               width={728}
               height={90}
               className="w-[728px] h-[90px]"
@@ -81,7 +81,7 @@ export default function RezeptPage() {
           </p>
           <p className="text-base text-gray-500 dark:text-gray-400 max-w-2xl mx-auto mb-8">
             Medizinisches Cannabis legal kaufen: Mit unseren Telemedizin-Partnern 
-            erhalten Sie Ihr Cannabis-Rezept schnell, diskret und unkompliziert - direkt von zu Hause aus.
+            erhalten Sie Ihr Cannabis-Rezept schnell, diskret und unkompliziert – direkt von zu Hause aus.
           </p>
           <Link 
             href="/"
@@ -144,14 +144,14 @@ export default function RezeptPage() {
         {/* Bottom Ad Banner */}
         <div className="mt-16 flex justify-center">
           <a 
-            href="https://www.royalqueenseeds.com/?utm_source=postaffiliatepro&utm_medium=affiliate&utm_campaign=test&a_aid=54839603" 
+            href="https://stake.com/?c=68wA9WEm" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block w-[728px] h-[90px] bg-gray-200 dark:bg-gray-700 rounded-lg flex items-center justify-center"
           >
             <img
-              src="/rqseeds.png"
-              alt="Royal Queen Seeds"
+              src="/stake.gif"
+              alt="Stake.com"
               width={728}
               height={90}
               className="w-[728px] h-[90px]"

@@ -30,7 +30,13 @@ export const metadata: Metadata = {
     'legal gras kaufen',
     'cannabis deutschland',
     'telemedizin cannabis',
-    'online cannabis rezept'
+    'online cannabis rezept',
+    'gras online kaufen',
+    'cannabis online kaufen',
+    'wie kann ich gras in deutschland kaufen',
+    'stecklinge kaufen',
+    'cali weed online kaufen',
+    ''
   ].join(', '),
   authors: [{ name: 'wirverkaufengras.de' }],
   openGraph: {
