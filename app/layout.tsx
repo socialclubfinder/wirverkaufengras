@@ -32,16 +32,8 @@ export const metadata: Metadata = {
     'telemedizin cannabis',
     'online cannabis rezept',
     'gras online kaufen',
-    'cannabis online kaufen',
-    'wie kann ich gras in deutschland kaufen',
-    'stecklinge kaufen',
-    'cali weed online kaufen',
-    'wir verkaufen gras',
-    'gras kaufen deutschland',
-    'gras verkaufen',
-    'cannabis verkaufen',
-    'cannabis auf rezept online',
-    'tele cannabis'
+    'cannabis rezept online',
+
   ].join(', '),
   authors: [{ name: 'wirverkaufengras.de' }],
   openGraph: {
@@ -50,11 +42,18 @@ export const metadata: Metadata = {
     type: 'website',
     locale: 'de_DE',
     siteName: 'wirverkaufengras.de',
+    images: [{
+      url: 'https://wirverkaufengras.de/logo.png',
+      width: 1200,
+      height: 630,
+      alt: 'wirverkaufengras.de Logo'
+    }]
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Cannabis legal kaufen in Deutschland',
     description: 'Medizinisches Cannabis bestellen ✓ Online Rezept ✓ Samen & Stecklinge ✓',
+    images: ['https://wirverkaufengras.de/logo.png']
   },
   robots: {
     index: true,
@@ -71,8 +70,16 @@ export const metadata: Metadata = {
     canonical: 'https://wirverkaufengras.de',
   },
   verification: {
-    google: '',
-  
+    google: 'REPLACE_WITH_YOUR_VERIFICATION_CODE',
+  },
+  icons: {
+    icon: '/logo.png',
+    shortcut: '/logo.png',
+    apple: '/logo.png',
+    other: {
+      rel: 'apple-touch-icon-precomposed',
+      url: '/logo.png',
+    },
   },
   other: {
     'apple-mobile-web-app-capable': 'yes',

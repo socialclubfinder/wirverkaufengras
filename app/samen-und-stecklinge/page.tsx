@@ -20,13 +20,13 @@ export default function SamenUndStecklingePage() {
       <div className="w-full bg-white dark:bg-gray-800 shadow-md p-4">
         <div className="max-w-7xl mx-auto flex justify-center">
           <a 
-            href="https://stake.com/?c=9BAmdcIb" 
+            href="https://dutch-passion.com/?a_aid=wirverkaufengras" 
             target="_blank" 
             rel="noopener noreferrer"
             className="block w-[728px] h-[90px] bg-gray-200 dark:bg-gray-700 rounded-lg flex items-center justify-center"
           >
             <img
-              src="/stake.gif"
+              src="https://dutch-passion.postaffiliatepro.com/accounts/default1/0mkbva/ab8b4376.jpg"
               alt="Stake.com Advertisement"
               width={728}
               height={90}
